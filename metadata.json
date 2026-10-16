@@ -1,0 +1,8 @@
+{
+  "name": "Remix Xadrez 3D Master - Arena Azul",
+  "description": "Jogo de xadrez 3D imersivo em estética azul marinho refinada com bots de IA, partidas locais e online, e trilhas sonoras especiais de vitória e derrota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
